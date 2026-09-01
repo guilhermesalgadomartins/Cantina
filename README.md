@@ -1,6 +1,9 @@
 # Escola
 cantina
-diretoria
-sala
-sala
-sala
+stoque
+cozinha
+panelas
+copos
+ovo de verdade
+pratos
+talheres
