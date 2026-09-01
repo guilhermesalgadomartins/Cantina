@@ -1,7 +1,5 @@
 # cantina
-cozinhar, preparar os alimentos
-preparar os ingredientes
-lavar a louça e organizar os pratos e talheres
-lavar a cozinha e organizar
-entregar a comida aos estudantes
-repetir tudo denovo
+Guilherme S: fez o codigo 
+Guilherme V: auxiliar do codigo
+Estela: organizadora do grupo
+Henrique: critico do codigo analitico
