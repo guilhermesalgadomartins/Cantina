@@ -1,2 +1,6 @@
 # Escola
-macaco
+cantina
+diretoria
+sala
+sala
+sala
